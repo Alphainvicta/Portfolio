@@ -19,10 +19,8 @@
   }
 
   .about-wrapper {
-    border-radius: 100%;
     @include respond(phone) {
       padding-bottom: 5rem;
-      border-radius: 100%;
     }
 
     &__image {
